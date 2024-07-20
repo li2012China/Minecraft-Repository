@@ -15,5 +15,4 @@
 
 项目地址:
 
-- (GitHub) [https://spectrollay.github.io/minecraft_repository/
-](https://github.com/li2012China/Minecraft-Repository)
+- (GitHub) [https://github.com/li2012China/Minecraft-Repository](https://github.com/li2012China/Minecraft-Repository)
