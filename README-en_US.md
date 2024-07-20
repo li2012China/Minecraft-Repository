@@ -4,9 +4,9 @@
 
 </div>
 
-# Starmoon Minecraft Repository
+# Minecraft Repository
 
-### Starmoon Minecraft Repository website files repository
+### Minecraft Repository website files repository
 
 This project uses [OreUI](https://github.com/Spectrollay/OreUI) technology
 
