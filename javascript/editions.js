@@ -1,6 +1,6 @@
 let openurl;
 
-// 免责申明弹窗
+// 免责申明弹窗！
 function showDisclaimerModal(url) {
     const overlay = document.getElementById("overlay_disclaimer_modal");
     const modal = document.getElementById("disclaimer_modal");
