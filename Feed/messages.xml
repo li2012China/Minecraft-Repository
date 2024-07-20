@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-        <title>星月Minecraft版本库 - 通知中心</title>
+        <title>Minecraft版本库 - 通知中心</title>
         <link>https://spectrollay.github.io/minecraft_repository/notifications/</link>
-        <description>星月Minecraft版本库是一个开放共享的资源站,专注于收录Minecraft发布过的所有版本.</description>
+        <description>Minecraft版本库是一个开放共享的资源站,专注于收录Minecraft发布过的所有版本.</description>
         <language>zh-cn</language>
         <item>
             <title>RSS订阅测试</title>
